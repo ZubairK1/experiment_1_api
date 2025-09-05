@@ -11,3 +11,18 @@
    python3 query.py
 8. Enter one of the listed conditions and one of the listed buyer IDs and run
 ```
+## Repo layout
+```
+├── hospital_A
+│   ├── app.py
+│   └── requirements.txt
+├── hospital_B
+│   ├── app.py
+│   └── requirements.txt
+├── main_api
+│   ├── main.py
+│   ├── query.py
+│   └── utils.py
+└── requirements.txt
+```
+
